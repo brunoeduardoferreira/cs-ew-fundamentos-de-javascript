@@ -10,11 +10,11 @@
 
 Ementa
 
-- 1 - Introdução ao curso
--- Introdução ao Curso e Objetivos
--- Tópicos abordados - O que aprenderei ?
--- Instalação e Configuração (Windows e Linux)
--- Porque Javascript é diferente das outras linguagens?
+* 1 - Introdução ao curso
+ * Introdução ao Curso e Objetivos
+ * Tópicos abordados - O que aprenderei ?
+ * Instalação e Configuração (Windows e Linux)
+ * Porque Javascript é diferente das outras linguagens?
 
 * 2 - Iniciando com Javascript
 - Introdução ao Capitulo
