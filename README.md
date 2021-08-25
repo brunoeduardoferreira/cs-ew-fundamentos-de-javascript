@@ -15,14 +15,12 @@ Ementa
 - Tópicos abordados - O que aprenderei ?
 - Instalação e Configuração (Windows e Linux)
 - Porque Javascript é diferente das outras linguagens?
-
 2 - Iniciando com Javascript
 - Introdução ao Capitulo
 - Ambiente e instalação
 - O que faremos neste capítulo?
 - Guardando informações em Variáveis
 - Diferença entre var, let e const
-
 3 - Tipos de dados
 - Trabalhando com Strings e Numbers
 - Conhecendo os operadores do Javascript
@@ -37,7 +35,6 @@ Ementa
 - Formas de declarar uma função: Expressão, declarativa e arrow function
 - Trabalhando com Classes
 - Quizzes
-
 4 - Controlando o fluxo de dados
 - Introdução ao capítulo
 - Conhecendo o if, else e else if
@@ -45,12 +42,10 @@ Ementa
 - Trabalhando com While e Do...While
 - Trabalhando com For ForIn e ForOf
 - Quizzes
-
 5 - Módulos em Javascript
 - Módulos no Node.js
 - Módulos em navegadores
 - Quizzes
-
 6 - O Ciclo de vida Javascript
 - Funções assíncronas?
 - O que são callbacks?
@@ -58,7 +53,6 @@ Ementa
 - O que são Promises?
 - Como usar async/await para resolver Promises?
 - Quizzes
-
 7 - Projeto final: Construindo um jogo da Memória
 - O que faremos?
 - Configurando ambiente
@@ -69,6 +63,5 @@ Ementa
 - Organizando o código
 - Exibindo resultados
 - Publicando o projeto no GitHub Pages
-
 8 - Próximos passos
 - O que aprender?
